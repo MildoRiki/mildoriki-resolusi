@@ -1,0 +1,6 @@
+# mildoriki-resolusi
+
+Repository untuk menyimpan rencana MildoRiki kedepannya
+- Konsisten belajar Front End Development minimal 3 jam per hari
+- Menembus remote work dengan job sebagai FED tahun ini
+- Mendapatkan income minimal $1500/mo dalam 12 bulan setelah menembus remote work pertama
